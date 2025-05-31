@@ -2,7 +2,6 @@
 title: Welcome to my page
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
-
-Writing this here to see if it's working.
+Hello!!!!!!! Welcome to my page :D I'm Harry :D
+I made this page on a whim.
+We'll see where it takes me.
